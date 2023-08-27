@@ -1,0 +1,21 @@
+.bg-silver {
+  background: #e0e0e0;
+}
+
+a {
+  text-decoration: none !important;
+  margin-right: 8px !important;
+}
+
+/* .bg-hero {
+  background: rgb(53, 52, 52) !important;
+} */
+
+.text-silver {
+  color: silver;
+}
+
+.card img {
+  height: 200px !important;
+  width: 100% !important;
+}
